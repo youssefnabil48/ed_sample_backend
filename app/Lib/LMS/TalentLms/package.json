@@ -1,0 +1,57 @@
+{
+  "_from": "talentlms",
+  "_id": "talentlms@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-dpl8DcBsZNemBtOvkLrD4eMJLuwaA10sqW079dAP9gaQIPVDBvFWY7K0UnFEu2bAQNb4J2d/PJ7oHEHUAbLnOQ==",
+  "_location": "/talentlms",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "talentlms",
+    "name": "talentlms",
+    "escapedName": "talentlms",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_resolved": "https://registry.npmjs.org/talentlms/-/talentlms-1.1.5.tgz",
+  "_shasum": "00d0f31689b043bd0a1410b063c7bee9f505d5de",
+  "_spec": "talentlms",
+  "_where": "/home/marwan/EduAct/eduact_one_backend",
+  "author": {
+    "name": "Ahmed Mashhour"
+  },
+  "bugs": {
+    "url": "https://github.com/mashhour04/TalentLMS/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "deprecated": false,
+  "description": "TalentLMS Node-SDK based on official TalentLMS API documentation",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/mashhour04/TalentLMS#readme",
+  "keywords": [
+    "talentlms",
+    "talent",
+    "talentlms-api",
+    "api",
+    "sdk",
+    "talentlms-sdk"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "talentlms",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashhour04/TalentLMS.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.5"
+}

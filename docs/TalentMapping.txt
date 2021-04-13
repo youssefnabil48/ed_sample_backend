@@ -1,0 +1,7 @@
+Talentlms  <---> Eduact
+
+role        --> user_type
+category    --> classroom
+category_id --> classroom_id
+creator_id  --> instructor_id
+avatar      --> thumbnail

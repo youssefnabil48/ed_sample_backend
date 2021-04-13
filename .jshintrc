@@ -1,0 +1,14 @@
+{
+  "undef": true,
+  "unused": true,
+  "esversion": 9,
+  "trailingcomma": false,
+  "asi": true,
+  "strict": "global",
+  "globals": {
+    "use": true,
+    "module": true,
+    "console": true,
+    "exports": true
+  }
+}
